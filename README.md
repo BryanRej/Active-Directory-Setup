@@ -17,7 +17,7 @@ This project uses virtual machines to simulate an Active Directory environment i
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Download VirtualBox: Head to the Oracle website to download the hypervisor for your preferred operating system https://www.virtualbox.org/wiki/Downloads<br/>
+Download VirtualBox: Head to the Oracle website to download the hypervisor for your preferred operating system. This will hold our windows 10 and windows 2019 server machines https://www.virtualbox.org/wiki/Downloads<br/>
 <img src="https://i.imgur.com/y4Z1svR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
