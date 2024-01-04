@@ -21,11 +21,11 @@ Download VirtualBox: Head to the Oracle website to download the hypervisor for y
 <img src="https://i.imgur.com/y4Z1svR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Setup Windows Server 2019 after downloading appropriate ISO images:  <br/>
+Setup Windows Server 2019 after downloading appropriate ISO images. I was having issues getting the VM to boot up initially. That led me to the BIOS menu on my computer where I then enabled settings to allow for virtualization:  <br/>
 <img src="https://i.imgur.com/0ZpOFOw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configure Ip addresses per device. Here is the addressing scheme used below:  <br/>
+Configure IP addresses per device. Here is the addressing scheme used below:  <br/>
 <img src="https://i.imgur.com/epvtVrV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
