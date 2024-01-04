@@ -21,5 +21,9 @@ Download VirtualBox: Head to the Oracle website to download the hypervisor for y
 <img src="https://i.imgur.com/y4Z1svR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Setup Windows Server 2019 after downloading appropriate ISO images:  <br/>
+<img src="https://i.imgur.com/0ZpOFOw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 </p>
