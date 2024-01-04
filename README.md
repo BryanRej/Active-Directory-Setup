@@ -29,4 +29,6 @@ Configure Ip addresses per device. Here is the addressing scheme used below:  <b
 <img src="https://i.imgur.com/epvtVrV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+  Install Active Directory Domain Services on VM:  <br/>
+<img src="https://i.imgur.com/6jl6tKz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
