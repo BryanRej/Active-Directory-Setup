@@ -31,4 +31,10 @@ Configure IP addresses per device. Here is the addressing scheme used below:  <b
 <br />
   Install Active Directory Domain Services on VM:  <br/>
 <img src="https://i.imgur.com/6jl6tKz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br />
+<br />
+Create new organization unit :  <br/>
+<img src="https://i.imgur.com/Ifz61BR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
