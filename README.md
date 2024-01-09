@@ -42,7 +42,10 @@ Create a new organization unit:  <br/>
 Configure routing and DHCP:  <br/>
 <img src="https://i.imgur.com/siV48rj.png" height="80%" width="80%" alt="Active Directory"/>
 <img src="https://i.imgur.com/gD1OKwW.png" height="80%" width="80%" alt="Active Directory"/>
-
+<img src="https://i.imgur.com/82ZKHbs.png" height="80%" width="80%" alt="Active Directory"/>
+<img src="https://i.imgur.com/Q81jPuC.png" height="80%" width="80%" alt="Active Directory"/>
+<img src="https://i.imgur.com/fxmJfFO.png" height="80%" width="80%" alt="Active Directory"/>
+<img src="https://i.imgur.com/sCLtyK3.png" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
   
