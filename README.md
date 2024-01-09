@@ -52,7 +52,8 @@ Retrieve the Powershell script to create users and run Powershell as an administ
 <img src="https://i.imgur.com/5Ttfdya.png" height="80%" width="80%" alt="Active Directory"/>
 <img src="https://i.imgur.com/jGKTWEe.png"80%" width="80%" alt="Active Directory"/>
 <img src="https://i.imgur.com/HyvZVs7.png" width="80%" alt="Active Directory"/>
- 
+ <img src="https://i.imgur.com/x8AMhr7.png" width="80%" alt="Active Directory"/>
+
 <br />
 <br />
 </p>
