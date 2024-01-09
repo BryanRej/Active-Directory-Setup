@@ -21,7 +21,7 @@ Download VirtualBox: Head to the Oracle website to download the hypervisor for y
 <img src="https://i.imgur.com/y4Z1svR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Setup Windows Server 2019 after downloading appropriate ISO images. I was having issues getting the VM to boot up initially. That led me to the BIOS menu on my computer where I then enabled settings to allow for virtualization:  <br/>
+Set up Windows Server 2019 after downloading appropriate ISO images. I was having issues getting the VM to boot up initially. That led me to the BIOS menu on my computer where I then enabled settings to allow for virtualization:  <br/>
 <img src="https://i.imgur.com/0ZpOFOw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -35,6 +35,14 @@ Configure IP addresses per device. Here is the addressing scheme used below:  <b
 <br />
 Create a new organization unit:  <br/>
 <img src="https://i.imgur.com/rSTbGoe.png" height="80%" width="80%" alt="Active Directory"/>
+<img src="https://i.imgur.com/Xkgh01n.png" height="80%" width="80%" alt="Active Directory"/>
+<img src="https://i.imgur.com/OB6XtSG.png" height="80%" width="80%" alt="Active Directory"/>
+<br />
+<br />
+Configure routing and DHCP:  <br/>
+<img src="https://i.imgur.com/siV48rj.png" height="80%" width="80%" alt="Active Directory"/>
+<img src="https://i.imgur.com/gD1OKwW.png" height="80%" width="80%" alt="Active Directory"/>
+
 <br />
 <br />
   
