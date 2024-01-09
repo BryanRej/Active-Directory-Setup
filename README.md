@@ -48,5 +48,11 @@ Configure routing and DHCP:  <br/>
 <img src="https://i.imgur.com/sCLtyK3.png" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
-  
+Retrieve the Powershell script to create users and run Powershell as an administrator. Then I set the command execution policy to unrestricted and load the script. Next, I navigate to the name file directory in PowerShell and execute the script.:  <br/>
+<img src="https://i.imgur.com/5Ttfdya.png" height="80%" width="80%" alt="Active Directory"/>
+<img src="https://i.imgur.com/jGKTWEe.png"80%" width="80%" alt="Active Directory"/>
+<img src="https://i.imgur.com/HyvZVs7.png" width="80%" alt="Active Directory"/>
+ 
+<br />
+<br />
 </p>
