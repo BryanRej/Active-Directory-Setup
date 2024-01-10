@@ -59,4 +59,5 @@ Retrieve the Powershell script to create users and run Powershell as an administ
 Create Windows client:  <br/>
 <img src="https://i.imgur.com/soLgJSS.png" height="80%" width="80%" alt="Active Directory"/>
 <img src="https://i.imgur.com/vbdj5o4.png" height="80%" width="80%" alt="Active Directory"/> 
+<img src="https://i.imgur.com/HJdDNwm.png" height="80%" width="80%" alt="Active Directory"/>
 </p>
