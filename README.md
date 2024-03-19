@@ -1,4 +1,4 @@
-<h1>Active Directory Homelab</h1>
+<h1>Active Directory Setup</h1>
 
 <h2>Description</h2>
 This project uses virtual machines to simulate an Active Directory environment implemented with Powershell.   
